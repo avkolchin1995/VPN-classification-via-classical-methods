@@ -30,9 +30,9 @@
 
 ## Результаты
 
-|Алгоритм|Эффективность, %|
-|||
-|Логистическая<br>регрессия|99|
-|K-Nearest<br>Neighbours|99|
-|Random Forest<br>Tree|99|
-|Gradient<br>Boosting|99|
+| Алгоритм               | Эффективность, % |
+|------------------------|------------------|
+| Логистическая<br>регрессия | 99               |
+| K-Nearest<br>Neighbours   | 99               |
+| Random Forest<br>Tree     | 99               |
+| Gradient<br>Boosting      | 99               |
